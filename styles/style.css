@@ -1,0 +1,28 @@
+div{
+    margin:0px;
+    padding:0px;
+}
+.cbox{
+    background-color: crimson;
+    padding: 0px;
+    height: 100px;
+    width: 120px;
+    margin: 15px 10px 15px 15px;
+    text-align: center;
+    display: inline-block;
+    
+}
+.cbox:hover{
+    background-color: dodgerblue;
+}
+.ctext{
+    color: aliceblue;
+    vertical-align: middle;
+    margin: 10px 10px 10px 10px;
+    padding: 40px 40px 40px 40px;
+}
+.ctext:hover{
+    background-color: beige;
+    text-decoration: none;
+    color:crimson;
+}
